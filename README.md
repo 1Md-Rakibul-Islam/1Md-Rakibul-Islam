@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, This is Rakibul Islam</h1>
 <h3 align="center">A Full-Stack Web Application Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1md-rakibul-islam" alt="1md-rakibul-islam" /></a> </p>
+
 
 - 🔭 I’m currently working on [Coders StackBox](https://codersstackbox-c9449.web.app)
 
