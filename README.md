@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [Coders StackBox](https://codersstackbox-c9449.web.app)
 
-- 🌱 I’m currently learning **Redux, TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://dev-rakibulislam.web.app](https://dev-rakibulislam.web.app)
 
 - 💬 Ask me about? **React, Express.js, Node.js, MongoDB**
