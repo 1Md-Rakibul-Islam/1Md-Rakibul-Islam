@@ -15,11 +15,11 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view](https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/1md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png" alt="1md-rakibul-islam" height="30" width="40" /></a>
-<a href="https://fb.com/profile.rakibul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam" height="30" width="40" /></a>
-<a href="https://twitter.com/mrrakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/twitter.svg" alt="mrrakib17184590" height="30" width="40" /></a>
-<a href="https://instagram.com/princesunnyrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/instagram.svg" alt="princesunnyrakib" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/1md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png" alt="1md-rakibul-islam"  /></a>
+<a href="https://fb.com/profile.rakibul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam"  /></a>
+<a href="https://twitter.com/mrrakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590"  /></a>
+<a href="https://instagram.com/princesunnyrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/instagram.svg" alt="princesunnyrakib"  /></a>
 </p>
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
