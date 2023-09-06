@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/1md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png" alt="1md-rakibul-islam"  /></a>
-<a href="https://fb.com/profile.rakibul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam"  /></a>
-<a href="https://twitter.com/mrrakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590"  /></a>
-<a href="https://instagram.com/princesunnyrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/instagram.svg" alt="princesunnyrakib"  /></a>
+<a href="https://linkedin.com/in/1md-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png" alt="1md-rakibul-islam" height="50" width="80" /></a>
+<a href="https://fb.com/profile.rakibul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam" height="50" width="80" /></a>
+<a href="https://twitter.com/mrrakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="50" width="80" /></a>
+<a href="https://instagram.com/princesunnyrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/instagram.svg" alt="princesunnyrakib" height="50" width="80" /></a>
 </p>
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
