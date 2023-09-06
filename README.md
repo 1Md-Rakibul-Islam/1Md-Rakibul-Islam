@@ -30,18 +30,18 @@
 <br/>
 <br/>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/HTML.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/css.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/JavaScript.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/typescript.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/react.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/redux.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/node.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/express.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/mongodb.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/firebase.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/tailwind.png"/>
-    <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Bootsrap.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/HTML.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/css.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/JavaScript.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/typescript.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/react.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/redux.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/node.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/express.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/mongodb.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/firebase.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/tailwind.png"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Bootsrap.png"/>
 </p>
 
 #
