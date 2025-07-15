@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Softivus
 
-- 💬 Ask me about? **React, Express.js, Node.js, MongoDB**
+- 💬 Ask me about? **React, Next.js, Vue.js, Nuxt, Alpine.js, JavaScript, TypeScript, Express.js, Node.js, MongoDB**
 
-- 📫 How to reach me? **rakibul9bd@gmail.com**
+- 📫 How to reach me? **rakibul.islam.dev.info@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view](https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view)
 
