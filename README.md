@@ -44,6 +44,32 @@
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Bootsrap.png"/>
 </p>
 
+<br/>
+<br/>
+
+<p align="center">
+    <img height="40" width="40" src="/assets/img/icons/svg/html.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/css.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/scss.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/bootstrap.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/tailwind.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/material-ui.svg"/> 
+    <img height="40" width="40" src="/assets/img/icons/svg/javascript.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/typescript.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/react.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/nextjs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/vue.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/nuxt.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/alpinejs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/nodejs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/expressjs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/mongodb.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/github.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
+</p>
+
 #
 
 <p align="center">
