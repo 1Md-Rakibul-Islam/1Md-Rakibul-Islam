@@ -21,9 +21,10 @@
 <a href="https://x.com/MrRakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="60" width="160" /></a>
 </p>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
-
 <br/>
+
+#
+
 <br/>
 
 **FRONTEND:**
@@ -90,3 +91,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1md-rakibul-islam&show_icons=true&locale=en" alt="1md-rakibul-islam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1md-rakibul-islam&" alt="1md-rakibul-islam" /></p>
+
+<img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
