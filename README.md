@@ -44,8 +44,6 @@
     <img height="40" width="40" src="/assets/img/icons/svg/zustand.svg"/>
 </p>
 
-#
-
 **BACK-END:**
 <br/>
 
@@ -56,8 +54,6 @@
     <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
 </p>
-
-#
 
 **𝚃𝙾𝙾𝙻𝚂:**
 <br/>
@@ -76,7 +72,7 @@
     <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
 </p
 
-#
+<br/>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=1md-rakibul-islam&show_icons=true&locale=en&layout=compact" alt="1md-rakibul-islam" /></p>
 
@@ -84,5 +80,5 @@
 
 <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1md-rakibul-islam&" alt="1md-rakibul-islam" />
-    <img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
+    <!-- <img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/> -->
 </p>
