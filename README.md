@@ -53,17 +53,17 @@
     <img height="40" width="40" src="/assets/img/icons/svg/css.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/scss.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/bootstrap.svg"/>
-    <img height="40" width="40" src="/assets/img/icons/svg/tailwind.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/tailwind.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/material-ui.svg"/> 
     <img height="40" width="40" src="/assets/img/icons/svg/javascript.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/typescript.svg"/>
-    <img height="40" width="40" src="/assets/img/icons/svg/react.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/react.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/nextjs.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/vue.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/nuxt.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/alpinejs.svg"/>
     <img height="40" width="40" src="/assets/img/icons/redux.png"/>
-    <img height="40" width="40" src="/assets/img/icons/zustand.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/zustand.svg"/>
 </p>
 
 <br/>
@@ -75,7 +75,7 @@
 <p align="center">
     <img height="40" width="40" src="/assets/img/icons/svg/nodejs.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/expressjs.svg"/>
-    <img height="40" width="40" src="/assets/img/icons/python/python-original.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/python.svg"/>
     <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
 </p>
@@ -87,6 +87,8 @@
 
 <p align="center">
     <img height="40" width="40" src="/assets/img/icons/svg/github.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/figma.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/photoshop.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
 </p>
