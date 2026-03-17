@@ -4,7 +4,7 @@
 <h3 align="center">A Full-Stack Web Application Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1Md-Rakibul-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="1Md-Rakibul-Islam" /> </p>
 
-- 🔭 I’m currently working on Softivus
+- 🔭 I’m currently working on Make Hub
 
 - 💬 Ask me about? **React, Next.js, Vue.js, Nuxt, Alpine.js, JavaScript, TypeScript, Express.js, Node.js, MongoDB**
 
@@ -27,7 +27,6 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
 <br/>
-<br/>
 <p align="center">
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/HTML.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/css.png"/>
@@ -47,6 +46,8 @@
 <br/>
 <br/>
 
+**FRONTEND:**
+
 <p align="center">
     <img height="40" width="40" src="/assets/img/icons/svg/html.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/css.svg"/>
@@ -61,10 +62,30 @@
     <img height="40" width="40" src="/assets/img/icons/svg/vue.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/nuxt.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/alpinejs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/redux.png"/>
+    <img height="40" width="40" src="/assets/img/icons/zustand.png"/>
+</p>
+
+<br/>
+<br/>
+
+**BACK-END:**
+<br/>
+
+<p align="center">
     <img height="40" width="40" src="/assets/img/icons/svg/nodejs.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/expressjs.svg"/>
-    <img height="40" width="40" src="/assets/img/icons/svg/mongodb.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/python/python-original.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
+</p>
+<br/>
+<br/>
+
+**𝚃𝙾𝙾𝙻𝚂:**
+<br/>
+
+<p align="center">
     <img height="40" width="40" src="/assets/img/icons/svg/github.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
