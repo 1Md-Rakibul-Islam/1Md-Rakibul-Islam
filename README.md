@@ -13,15 +13,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view](https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/rakibul-islam-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png"
  alt="1md-rakibul-islam" height="60" width="160" /></a>
 <a href="https://www.facebook.com/rakibulislam10101" target="blank"><img align="center" src
 ="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam" height="60" width="160" /></a>
 <a href="https://x.com/MrRakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="60" width="160" /></a>
 </p>
-
-<br/>
 
 #
 
@@ -58,8 +56,6 @@
     <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
     <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
 </p>
-<br/>
-<br/>
 
 #
 
@@ -79,10 +75,6 @@
     <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
     <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
 </p
-
-#
-
-<br/>
 
 #
 
