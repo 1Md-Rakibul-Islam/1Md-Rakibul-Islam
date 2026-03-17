@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rakibulislam101" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png"
+<a href="https://www.linkedin.com/in/rakibul-islam-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png"
  alt="1md-rakibul-islam" height="60" width="160" /></a>
 <a href="https://www.facebook.com/rakibulislam10101" target="blank"><img align="center" src
 ="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam" height="60" width="160" /></a>
-<a href="https://twitter.com/mrrakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="60" width="160" /></a>
+<a href="https://x.com/MrRakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="60" width="160" /></a>
 </p>
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
@@ -38,7 +38,7 @@
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/redux.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/node.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/express.png"/>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/mongodb.png"/>
+    <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/firebase.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/tailwind.png"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Bootsrap.png"/>
@@ -63,8 +63,6 @@
 #
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=1md-rakibul-islam&show_icons=true&locale=en&layout=compact" alt="1md-rakibul-islam" /></p>
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1md-rakibul-islam&show_icons=true&locale=en" alt="1md-rakibul-islam" /></p>
 
