@@ -22,7 +22,6 @@
 </p>
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/github.gif"/>
-<br/>
 
 <br/>
 <br/>
@@ -30,51 +29,21 @@
 **FRONTEND:**
 
 <p align="left">
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/html.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/css.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/scss.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/bootstrap.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/tailwind.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/material-ui.svg"/> 
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/javascript.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/typescript.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/react.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/nextjs.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/vue.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/nuxt.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/alpinejs.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/redux.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/zustand.svg"/>
-    </code>
+    <img height="40" width="40" src="/assets/img/icons/svg/html.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/css.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/scss.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/bootstrap.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/tailwind.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/material-ui.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/javascript.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/typescript.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/react.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/nextjs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/vue.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/nuxt.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/alpinejs.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/redux.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/zustand.svg"/>
 </p>
 
 <br/>
@@ -84,21 +53,11 @@
 <br/>
 
 <p align="left">
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/node.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/express.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/python.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
-    </code>
+    <img height="40" width="40" src="/assets/img/icons/node.png"/>
+    <img height="40" width="40" src="/assets/img/icons/express.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/python.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/mongodb.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/mongoose.png"/>
 </p>
 <br/>
 <br/>
@@ -107,40 +66,18 @@
 <br/>
 
 <p align="left">
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/webpack.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/vite.svg"/>
-    </code>  
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/gulp.png"/>
-    </code>  
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/parcel.png"/>
-    </code>  
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/github.png"/>
-    </code> 
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/postman.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/git.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/figma.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/photoshop.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
-    </code>
-    <code>
-        <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
-    </code>
-</p>
+    <img height="40" width="40" src="/assets/img/icons/svg/webpack.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/vite.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/gulp.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/parcel.png"/>
+    <img height="40" width="40" src="/assets/img/icons/github.png"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/postman.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/git.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/figma.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/photoshop.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/firebase.svg"/>
+    <img height="40" width="40" src="/assets/img/icons/svg/linux.svg"/>
+</p
 
 #
 
