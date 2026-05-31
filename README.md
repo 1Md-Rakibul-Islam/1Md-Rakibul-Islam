@@ -31,15 +31,6 @@ Jest, Cypress, React Testing Library
 ### Tools
 Git, GitHub, Vercel, Postman, Webpack, Vite, Gulp, npm, yarn, pnpm, bun
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rakibul-islam-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Linkedin.png"
- alt="1md-rakibul-islam" height="60" width="160" /></a>
-<a href="https://www.facebook.com/rakibulislam10101" target="blank"><img align="center" src
-="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Facebook.png" alt="profile.rakibul.islam" height="60" width="160" /></a>
-<a href="https://x.com/MrRakib17184590" target="blank"><img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/icons/Twitter.png" alt="mrrakib17184590" height="60" width="160" /></a>
-</p>
-
 #
 
 **FRONTEND:**
