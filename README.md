@@ -1,16 +1,10 @@
-<img align="center" src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/img/banner.png" />
-
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam/main/assets/GIF/Hi.gif" alt="hi">, This is Rakibul Islam</h1>
+<h1 align="center">Hi, This is Rakibul Islam</h1>
 <h3 align="center">A Full-Stack Web Application Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1Md-Rakibul-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="1Md-Rakibul-Islam" /> </p>
 
 - 🔭 I’m currently working on Make Hub
 
 - 💬 Ask me about? **React, Next.js, Vue.js, Nuxt, Alpine.js, JavaScript, TypeScript, Express.js, Node.js, MongoDB**
-
-- 📫 How to reach me? **rakibul.islam.dev.info@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view](https://drive.google.com/file/d/1KBeOC-FdwRjgRpMK_MLS7cPeGZkY4Dys/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
