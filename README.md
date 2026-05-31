@@ -19,20 +19,6 @@ I focus on:
 
 ## ⚒️ Tech Stack
 
-### Frontend
-React, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, SCSS/SASS, Material UI, Shadcn UI, Bootstrap, Firebase, GSAP, Framer Motion
-
-### Backend
-Node.js, Express.js, Python, MongoDB, Mongoose, REST APIs, JWT, Zod, Joi, Design Patterns
-
-### Testing
-Jest, Cypress, React Testing Library
-
-### Tools
-Git, GitHub, Vercel, Postman, Webpack, Vite, Gulp, npm, yarn, pnpm, bun
-
-#
-
 **FRONTEND:**
 <br/>
 
