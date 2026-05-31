@@ -1,10 +1,35 @@
-<h1 align="center">Hi, This is Rakibul Islam</h1>
-<h3 align="center">A Full-Stack Web Application Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=1Md-Rakibul-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="1Md-Rakibul-Islam" /> </p>
+<h1 align="left">Hi, This is Rakibul Islam</h1>
+<h3 align="left">A Full-Stack Web Application Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1Md-Rakibul-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="1Md-Rakibul-Islam" /> </p>
 
-- 🔭 I’m currently working on Make Hub
+## 🧠 About Me
 
-- 💬 Ask me about? **React, Next.js, Vue.js, Nuxt, Alpine.js, JavaScript, TypeScript, Express.js, Node.js, MongoDB**
+Frontend-focused Software Engineer with **4 years of experience** building scalable SaaS platforms, marketplace products, and high-performance web applications.
+
+Specialized in modern frontend architecture using **React, Next.js, Vue, and TypeScript**, with strong backend capabilities in **Node.js and Express**.
+
+I focus on:
+- Scalable frontend architecture (Micro Frontends)
+- Reusable design systems
+- Performance optimization
+- Clean, maintainable codebases
+- Production-grade SaaS products
+
+---
+
+## ⚒️ Tech Stack
+
+### Frontend
+React, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, SCSS/SASS, Material UI, Shadcn UI, Bootstrap, Firebase, GSAP, Framer Motion
+
+### Backend
+Node.js, Express.js, Python, MongoDB, Mongoose, REST APIs, JWT, Zod, Joi, Design Patterns
+
+### Testing
+Jest, Cypress, React Testing Library
+
+### Tools
+Git, GitHub, Vercel, Postman, Webpack, Vite, Gulp, npm, yarn, pnpm, bun
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
