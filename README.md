@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-Frontend-focused Software Engineer with **4 years of experience** building scalable SaaS platforms, marketplace products, and high-performance web applications.
+Full-Stack Software Engineer with **4 years of experience** building scalable SaaS platforms, marketplace products, and high-performance web applications.
 
 Specialized in modern frontend architecture using **React, Next.js, Vue, and TypeScript**, with strong backend capabilities in **Node.js and Express**.
 
